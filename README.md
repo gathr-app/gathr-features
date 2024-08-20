@@ -66,6 +66,9 @@ The admin dashboard can be found on our website, [getgathr.app](https://getgathr
 - **Filters:** You can currently filter between *All*, *Only RSVP-ers*, and *Only Attendees*. This will filter the attendance table, and the data exported via the **Export** button will reflect the same.
 
 #### Releases
+
 [1.2.0](https://github.com/gathr-app/gathr-features/tree/release_1.2.0)
+
 [1.1.0](https://github.com/gathr-app/gathr-features/tree/release_1.1.0)
+
 [1.0.2](https://github.com/gathr-app/gathr-features/tree/release_1.0.2)
