@@ -1,5 +1,5 @@
-# Gathr - What's New [v1.1.0]
+# Gathr - What's New [v1.2.0]
 
 [View current release](https://github.com/gathr-app/gathr-features)
 
-We have a leaderboard now! You can find it in the bottom navigation bar.
+You can now check in to events using QR codes! This data is automatically stored in the admin dashboard for future member management features.
