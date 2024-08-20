@@ -1,4 +1,4 @@
-# Gathr Usage Guide
+# Gathr - What's New
 
 [View other versions](https://github.com/gathr-app/gathr-features)
 
