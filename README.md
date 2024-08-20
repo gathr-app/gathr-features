@@ -1,6 +1,6 @@
-# Gathr - What's New
+# Gathr - What's New [v1.0.2]
 
-[View other versions](https://github.com/gathr-app/gathr-features)
+[View current release](https://github.com/gathr-app/gathr-features)
 
 ## Creating Posts
 
